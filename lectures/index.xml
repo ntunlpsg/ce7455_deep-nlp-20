@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lectures on DEEP-NLP</title>
-    <link>https://ntunlpsg.github.io/ce7455-deep-nlp-20/lectures/</link>
+    <link>https://ntunlpsg.github.io/lectures/</link>
     <description>Recent content in Lectures on DEEP-NLP</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://ntunlpsg.github.io/ce7455-deep-nlp-20/lectures/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://ntunlpsg.github.io/lectures/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Writing technical content in Academic</title>
-      <link>https://ntunlpsg.github.io/ce7455-deep-nlp-20/lectures/lec-1/</link>
+      <link>https://ntunlpsg.github.io/lectures/lec-1/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ntunlpsg.github.io/ce7455-deep-nlp-20/lectures/lec-1/</guid>
+      <guid>https://ntunlpsg.github.io/lectures/lec-1/</guid>
       <description>
 
 &lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
