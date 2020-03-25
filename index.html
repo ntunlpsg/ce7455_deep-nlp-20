@@ -1060,7 +1060,7 @@
       <div class="col py-2">
         <div class="card">
           <div class="card-body">
-            <h4 class="card-title exp-title text-muted mt-0 mb-1">Week 12: Discourse Processing and Language Generation</h4>
+            <h4 class="card-title exp-title text-muted mt-0 mb-1">Week 12: Semisupervised Learning II &ndash; Adversarial Learning</h4>
             <h4 class="card-title exp-company text-muted my-0"></h4>
             <div class="text-muted exp-meta">
               
@@ -1081,37 +1081,24 @@
 <p><strong>Lecture Content</strong></p>
 
 <ul>
-<li>Types of discourse</li>
+<li>Generative adversarial nets (GANs)</li>
+<li>Domain adversarial nets (DANs)</li>
+<li>Transfer learning with DANs</li>
+<li>Training with adversarial examples</li>
+<li>Consistency regularization</li>
+<li>Cross-view consistency</li>
 
-<li><p>Discourse analysis tasks</p>
-
-<ul>
-<li>Topic analysis</li>
-<li>Coreference resolution</li>
-<li>Coherence modeling</li>
-<li>Discourse parsing</li>
-<li>Conversational structures</li>
-</ul></li>
-
-<li><p>Neural topic segmenter</p></li>
-
-<li><p>Neural coreference resolution</p></li>
-
-<li><p>Neural discourse parsing</p></li>
-
-<li><p>Neural coherence modeling</p></li>
-
-<li><p>Neural dialogue act modeling</p></li>
-</ul>
-
-<p><strong>Practical exercise with Pytorch</strong></p>
+<li><p>Limits &amp; Future of Deep NLP</p>
 
 <ul>
-<li>Discourse Parsing</li>
-<li>Coherence Model</li>
-<li>Topic segmenter (Segbot)
+<li>Multi-sentence processing</li>
+<li>Multi-task learning</li>
+<li>Multimodal learning</li>
+<li>Model interpretability
+
 
 <br /></li>
+</ul></li>
 </ul>
 </div>
           </div>
@@ -1138,7 +1125,7 @@
       <div class="col py-2">
         <div class="card">
           <div class="card-body">
-            <h4 class="card-title exp-title text-muted mt-0 mb-1">Week 11: Semisupervised Learning II: Adversarial Learning</h4>
+            <h4 class="card-title exp-title text-muted mt-0 mb-1">Week 11: Semisupervised Learning I &ndash; Self-supervised learning</h4>
             <h4 class="card-title exp-company text-muted my-0"></h4>
             <div class="text-muted exp-meta">
               
@@ -1154,25 +1141,29 @@
               
               
             </div>
-            <div class="card-text"><p>[Lecture Slide]</p>
+            <div class="card-text"><p><a href="https://www.dropbox.com/s/y0c9h0jhpd76le0/Lecture-11.pdf?dl=0" target="_blank">Lecture Slide (partial)</a></p>
 
 <p><strong>Lecture Content</strong></p>
 
 <ul>
-<li>Generative adversarial nets (GANs)</li>
-<li>Domain adversarial nets (DANs)</li>
-<li>Transfer learning with DANs</li>
-<li>Training with adversarial examples</li>
-<li>Consistency regularization</li>
-<li>Cross-view consistency</li>
+<li>Why semi-supervsied?</li>
+<li>Semisupervised learning dimensions</li>
 
-<li><p>Limits &amp; Future of Deep NLP</p>
+<li><p>Pre-training and fine-tuning methods</p>
 
 <ul>
-<li>Multi-sentence processing</li>
-<li>Multi-task learning</li>
-<li>Multimodal learning</li>
-<li>Model interpretability</li>
+<li>ELMo</li>
+<li>GPT</li>
+<li>BERT</li>
+<li>XLM</li>
+<li>XL-Net</li>
+</ul></li>
+
+<li><p>Evaluation benchmarks</p>
+
+<ul>
+<li>GLUE</li>
+<li>SQuAD</li>
 </ul></li>
 </ul>
 
@@ -1220,7 +1211,7 @@
       <div class="col py-2">
         <div class="card">
           <div class="card-body">
-            <h4 class="card-title exp-title text-muted mt-0 mb-1">Week 10: More on Attentions and Transfer Learning</h4>
+            <h4 class="card-title exp-title text-muted mt-0 mb-1">Week 10: Seq2Seq Variants and Transformer</h4>
             <h4 class="card-title exp-company text-muted my-0"></h4>
             <div class="text-muted exp-meta">
               
@@ -1236,40 +1227,26 @@
               
               
             </div>
-            <div class="card-text"><p>[Lecture Slide]</p>
+            <div class="card-text"><p><a href="https://www.dropbox.com/s/ocitt0t1wyn7iwv/Lecture-10.pdf?dl=0" target="_blank">Lecture Slide (partial)</a></p>
 
 <p><strong>Lecture Content</strong></p>
 
 <ul>
-<li>Pointer nets</li>
-
-<li><p>Applications of Seq2Seq models in</p>
+<li><p>Seq2Seq Variants (Pointer nets, Pointer Generator Nets)</p>
 
 <ul>
-<li>Parsing</li>
+<li>Machine Translation</li>
 <li>Summarization</li>
+<li>Parsing</li>
 <li>image/video captioning</li>
 </ul></li>
 
-<li><p>Why semi-supervsied?</p></li>
-
-<li><p>Semisupervised learning dimensions</p></li>
-
-<li><p>Pre-training and fine-tuning methods</p>
+<li><p>Transformer architecture</p>
 
 <ul>
-<li>ELMo</li>
-<li>GPT</li>
-<li>BERT</li>
-<li>XLM</li>
-<li>XL-Net</li>
-</ul></li>
-
-<li><p>Evaluation benchmarks</p>
-
-<ul>
-<li>GLUE</li>
-<li>SQuAD</li>
+<li>Self-attention</li>
+<li>Positional encoding</li>
+<li>Multi-head attention</li>
 </ul></li>
 </ul>
 
@@ -1279,25 +1256,22 @@
 <li><a href="https://openreview.net/pdf?id=HJxK5pEYvr" target="_blank">Xuan-Phi on Tree-transformer</a></li>
 </ul>
 
-<p><strong>Practical exercise with Pytorch</strong></p>
-
-<ul>
-<li>Neural machine translation</li>
-<li>Summarization</li>
-<li>Parsing</li>
-<li>Image captioning</li>
-</ul>
-
 <p><strong>Suggested Readings</strong></p>
 
 <ul>
-<li><a href="https://arxiv.org/abs/1704.04368" target="_blank">Get To The Point: Summarization with Pointer-Generator Networks</a></li>
+<li><p><a href="https://arxiv.org/abs/1704.04368" target="_blank">Get To The Point: Summarization with Pointer-Generator Networks</a></p></li>
 
 <li><p><a href="https://papers.nips.cc/paper/5866-pointer-networks" target="_blank">Pointer Networks</a></p></li>
 
 <li><p><a href="https://www.aclweb.org/anthology/P18-1130.pdf" target="_blank">Stack-Pointer Networks for Dependency Parsing</a></p></li>
 
 <li><p><a href="https://arxiv.org/abs/1905.05682" target="_blank">A Unified Linear-Time Framework for Sentence-Level Discourse Parsing</a></p></li>
+
+<li><p><a href="https://arxiv.org/abs/1706.03762" target="_blank">Attention Is All You Need</a></p></li>
+
+<li><p><a href="https://jalammar.github.io/illustrated-transformer/" target="_blank">The Illustrated Transformer</a></p></li>
+
+<li><p><a href="https://arxiv.org/abs/1911.03014" target="_blank">Resurrecting Submodularity in Neural Abstractive Summarization</a></p></li>
 </ul>
 </div>
           </div>
