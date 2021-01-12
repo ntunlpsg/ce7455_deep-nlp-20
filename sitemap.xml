@@ -188,11 +188,19 @@
   </url>
   
   <url>
-    <loc>https://ntunlpsg.github.io/ce7455_deep-nlp-20/authors/2.tung/</loc>
+    <loc>https://ntunlpsg.github.io/ce7455_deep-nlp-20/2.tung/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ntunlpsg.github.io/ce7455_deep-nlp-20/8.-lin/</loc>
   </url>
   
   <url>
     <loc>https://ntunlpsg.github.io/ce7455_deep-nlp-20/authors/3.sbmaruf/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ntunlpsg.github.io/ce7455_deep-nlp-20/authors/4.mathieu/</loc>
   </url>
   
   <url>
@@ -201,10 +209,6 @@
   
   <url>
     <loc>https://ntunlpsg.github.io/ce7455_deep-nlp-20/authors/7.-hancheol-moon/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ntunlpsg.github.io/ce7455_deep-nlp-20/authors/8.-lin/</loc>
   </url>
   
   <url>
@@ -228,6 +232,11 @@
   
   <url>
     <loc>https://ntunlpsg.github.io/ce7455_deep-nlp-20/authors/1.tasnim/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ntunlpsg.github.io/ce7455_deep-nlp-20/authors/2.tung/</loc>
     <priority>0</priority>
   </url>
   
