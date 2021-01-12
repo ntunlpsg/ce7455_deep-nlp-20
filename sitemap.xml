@@ -184,7 +184,7 @@
   </url>
   
   <url>
-    <loc>https://ntunlpsg.github.io/ce7455_deep-nlp-20/authors/1.tasnim/</loc>
+    <loc>https://ntunlpsg.github.io/ce7455_deep-nlp-20/1.tasnim/</loc>
   </url>
   
   <url>
@@ -223,6 +223,11 @@
   
   <url>
     <loc>https://ntunlpsg.github.io/ce7455_deep-nlp-20/authors/1.nxphi47/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ntunlpsg.github.io/ce7455_deep-nlp-20/authors/1.tasnim/</loc>
     <priority>0</priority>
   </url>
   
