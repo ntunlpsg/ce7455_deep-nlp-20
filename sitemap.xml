@@ -184,6 +184,10 @@
   </url>
   
   <url>
+    <loc>https://ntunlpsg.github.io/ce7455_deep-nlp-20/authors/chengwei/</loc>
+  </url>
+  
+  <url>
     <loc>https://ntunlpsg.github.io/ce7455_deep-nlp-20/authors/hailin/</loc>
   </url>
   
@@ -229,6 +233,11 @@
   
   <url>
     <loc>https://ntunlpsg.github.io/ce7455_deep-nlp-20/authors/5.hailin/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ntunlpsg.github.io/ce7455_deep-nlp-20/authors/6.chengwei/</loc>
     <priority>0</priority>
   </url>
   
