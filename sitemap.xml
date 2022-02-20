@@ -184,6 +184,10 @@
   </url>
   
   <url>
+    <loc>https://ntunlpsg.github.io/ce7455_deep-nlp-20/authors/2.sbmaruf/</loc>
+  </url>
+  
+  <url>
     <loc>https://ntunlpsg.github.io/ce7455_deep-nlp-20/authors/3.phi/</loc>
   </url>
   
@@ -193,6 +197,11 @@
   
   <url>
     <loc>https://ntunlpsg.github.io/ce7455_deep-nlp-20/authors/1.nxphi47/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ntunlpsg.github.io/ce7455_deep-nlp-20/authors/1.sbmaruf/</loc>
     <priority>0</priority>
   </url>
   
