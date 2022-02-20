@@ -184,6 +184,10 @@
   </url>
   
   <url>
+    <loc>https://ntunlpsg.github.io/ce7455_deep-nlp-20/authors/hailin/</loc>
+  </url>
+  
+  <url>
     <loc>https://ntunlpsg.github.io/ce7455_deep-nlp-20/authors/joty/</loc>
   </url>
   
@@ -220,6 +224,11 @@
   
   <url>
     <loc>https://ntunlpsg.github.io/ce7455_deep-nlp-20/authors/4.ruochen/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ntunlpsg.github.io/ce7455_deep-nlp-20/authors/5.hailin/</loc>
     <priority>0</priority>
   </url>
   
