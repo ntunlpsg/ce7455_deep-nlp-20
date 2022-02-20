@@ -184,6 +184,10 @@
   </url>
   
   <url>
+    <loc>https://ntunlpsg.github.io/ce7455_deep-nlp-20/authors/bosheng/</loc>
+  </url>
+  
+  <url>
     <loc>https://ntunlpsg.github.io/ce7455_deep-nlp-20/authors/chengwei/</loc>
   </url>
   
@@ -238,6 +242,11 @@
   
   <url>
     <loc>https://ntunlpsg.github.io/ce7455_deep-nlp-20/authors/6.chengwei/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ntunlpsg.github.io/ce7455_deep-nlp-20/authors/7.bosheng/</loc>
     <priority>0</priority>
   </url>
   
