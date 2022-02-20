@@ -192,11 +192,20 @@
   </url>
   
   <url>
+    <loc>https://ntunlpsg.github.io/ce7455_deep-nlp-20/authors/mathieu/</loc>
+  </url>
+  
+  <url>
     <loc>https://ntunlpsg.github.io/ce7455_deep-nlp-20/authors/phi/</loc>
   </url>
   
   <url>
     <loc>https://ntunlpsg.github.io/ce7455_deep-nlp-20/authors/2.sbmaruf/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ntunlpsg.github.io/ce7455_deep-nlp-20/authors/3.mathieu/</loc>
     <priority>0</priority>
   </url>
   
